@@ -167,7 +167,8 @@ python src/eval.py \
 
 ### Sample Output (Aerial → Map)
 
-*(Insert your sample 5-image grid here)*
+
+<img width="805" height="263" alt="Demo" src="https://github.com/user-attachments/assets/35650ba4-f194-4fff-9861-46b3750ff06c" />
 
 ### Metrics Comparison
 
